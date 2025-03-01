@@ -38,7 +38,7 @@ Word Ladder is a word puzzle where players transform one word into another by ch
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/word-ladder-game.git
+   git clone https://github.com/AbdullahAsif296/word-ladder-game.git
    cd word-ladder-game
    ```
 
